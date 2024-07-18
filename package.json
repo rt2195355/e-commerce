@@ -1,0 +1,11 @@
+{
+  "name": "e-commerce-application",
+  "version": "1.0.0",
+  "description": "E-commerce application using MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajesh Kumar",
+  "license": "ISC"
+}
